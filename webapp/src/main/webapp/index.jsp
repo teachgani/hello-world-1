@@ -6,7 +6,9 @@ Registration Page
 </head>  
 <body bgcolor="Lightskyblue">  
 <br>  
-<br>  
+<br> 
+
+<h1>SimpleDevOpsProject</h1>
 <form>  
 <label> Firstname </label>         
 <input type="text" name="firstname" size="15"/> <br> <br>  
