@@ -8,7 +8,7 @@ Registration Page
 <br>  
 <br> 
 
-<h1>SimpleDevOpsProject</h1>
+<h1>SimpleDevOpsProject Created by ayub khan</h1>
 <form>  
 <label> Firstname </label>         
 <input type="text" name="firstname" size="15"/> <br> <br>  
