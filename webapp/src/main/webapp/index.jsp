@@ -8,7 +8,9 @@ Registration Page
 <br>  
 <br>  
 <form>  
-  
+<h1>moulalli</h1>
+<h2>project</h2>
+<h3>complited</h3>
 <label> Firstname </label>         
 <input type="text" name="firstname" size="15"/> <br> <br>  
 <label> Middlename: </label>     
