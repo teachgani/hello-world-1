@@ -14,7 +14,8 @@
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
-    
+    <br>
+
     <label for="MobileNumber"><b>Mobilenumber</b></label>
     <input type="MobileNumber" placeholder="MobileNumber" name="MobileNumber" id="MobileNumber" required>
 
