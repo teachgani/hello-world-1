@@ -1,7 +1,7 @@
 <Html>  
 <head>   
 <title>  
-Registration Page  
+Registration Page  collage form
 </title>  
 </head>  
 <body bgcolor="Lightskyblue">  
@@ -15,7 +15,9 @@ Registration Page
 <label> Middlename: </label>     
 <input type="text" name="middlename" size="15"/> <br> <br>  
 <label> Lastname: </label>         
-<input type="text" name="lastname" size="15"/> <br> <br>  
+<input type="text" name="lastname" size="15"/> <br> <br> 
+<input type="text" name="nickname" size="15"/> <br> <br>  
+<input type="text" markes=" " size="15"/> <br> <br> 
   
 <label>   
 Course :  
