@@ -8,7 +8,7 @@ Registration Page  collage form
 <br>  
 <br> 
 
-<h1>SimpleDevOpsProject Docker Container Deployment</h1>
+<h1>SimpleDevOpsProject Docker Container Deploy</h1>
 <form>  
 <label> Firstname </label>         
 <input type="text" name="firstname" size="15"/> <br> <br>  
